@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>UTS WEB Lanjut - Khaliza Diva Qintanada</title>
+    <title>WEB Lanjut - Khaliza Diva Qintanada</title>
     <meta name="description" content="The small framework with powerful features">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/png" href="/favicon.ico">
@@ -151,16 +151,16 @@
             padding-top: 0;
         }
         footer {
-            background-color: rgba(221, 72, 20, .8);
+            background-color: rgba(250, 70, 20, .5);
             text-align: center;
         }
         footer .environment {
-            color: rgba(255, 255, 255, 1);
+            color: rgba(400, 250, 25, 1);
             padding: 2rem 1.75rem;
         }
         footer .copyrights {
             background-color: rgba(62, 62, 62, 1);
-            color: rgba(200, 200, 200, 1);
+            color: rgba(100, 100, 100, 1);
             padding: .25rem 1.75rem;
         }
         @media (max-width: 629px) {
@@ -188,7 +188,7 @@
             header li.menu-item a:hover,
             header li.menu-item a:focus {
                 background-color: rgba(221, 72, 20, .7);
-                color: rgba(255, 255, 255, .8);
+                color: rgba(225, 225, 225, .8);
             }
         }
     </style>
@@ -217,9 +217,12 @@
 
     <div class="heroe">
 
-        <h1>Selamat Datang di Website Khaliza Diva</h1>
+        <h1>About Me</h1>
 
-        <h2>Ini digunakan untuk menunjukan kometensi saya dalam menggunakan framework HMVC dalam pengembangan aplikasi web serta mengelola source code menggunakan sistem kontrol versi GIT</h2>
+        <h2>
+			Hallo, Perkenalkan Nama saya Khaliza Diva Qintanada, saya berasal dari bandung jawa barat tepatnya di sarijadi
+            dekat dengan universitas Logistik Bisnis Internasional.
+		</h2>
 
     </div>
 
@@ -227,14 +230,6 @@
 
 <!-- CONTENT -->
 
-<section>
-
-    <h1>About this page</h1>
-
-    <p>Halaman ini merupakan halaman selamat datang</p>
-
-
-</section>
 
 
 <!-- FOOTER: DEBUG INFO + COPYRIGHTS -->
