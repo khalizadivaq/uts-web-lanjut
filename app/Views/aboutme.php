@@ -159,7 +159,7 @@
             padding: 2rem 1.75rem;
         }
         footer .copyrights {
-            background-color: rgba(62, 62, 62, 1);
+            background-color: rgba(255, 255, 255);
             color: rgba(100, 100, 100, 1);
             padding: .25rem 1.75rem;
         }

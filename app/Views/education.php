@@ -28,7 +28,7 @@
             text-rendering: optimizeLegibility;
         }
         header {
-            background-color: rgba(247, 248, 249, 1);
+            background-color: rgba(255, 255, 255);
             padding: .4rem 0 0;
         }
         .menu {
@@ -159,8 +159,8 @@
             padding: 2rem 1.75rem;
         }
         footer .copyrights {
-            background-color: rgba(62, 62, 62, 1);
-            color: rgba(200, 200, 200, 1);
+            background-color: rgba(255, 255, 255);
+            color: rgba(100, 100, 100, 1);
             padding: .25rem 1.75rem;
         }
         @media (max-width: 629px) {
@@ -220,7 +220,7 @@
         <h1>My Education</h1>
 
 		<table border="1" cellspasing="0">
-			<tr bgcolor="#9195F6" style="color:white;">
+			<tr bgcolor="#C0C0C0" style="color:Black;">
 				<td width="50px" align="center">No</td>
 				<td width="200px" align="center">Tingkat</td>
 				<td width="600px" align="center">Nama Sekolah</td>
@@ -253,7 +253,7 @@
 			<tr >
 				<td >5</td>
 				<td >Kuliah</td>>
-				<td >D3 Manajemen Informatika Politeknik Pos Indonesia (ULBI) </td>
+				<td >D3 Manajemen Informatika Politeknik Pos Indonesia (ULBI)</td>
 			</tr>
 		</table>
     </div>
