@@ -151,7 +151,7 @@
             padding-top: 0;
         }
         footer {
-            background-color: rgba(221, 72, 20, .8);
+            background-color: rgba(250, 70, 20, .5);
             text-align: center;
         }
         footer .environment {

@@ -151,7 +151,7 @@
             padding-top: 0;
         }
         footer {
-            background-color: rgba(221, 72, 20, .8);
+            background-color: rgba(250, 70, 20, .5);
             text-align: center;
         }
         footer .environment {
@@ -219,7 +219,7 @@
 
         <h1>Selamat Datang di Website Khaliza Diva</h1>
 
-        <h2>Ini digunakan untuk menunjukan kometensi saya dalam menggunakan framework HMVC dalam pengembangan aplikasi web serta mengelola source code menggunakan sistem kontrol versi GIT</h2>
+        <h2>Ini digunakan untuk menunjukan kompetensi  saya dalam menggunakan framework HMVC dalam pengembangan aplikasi web serta mengelola source code menggunakan sistem kontrol versi GIT</h2>
 
     </div>
 

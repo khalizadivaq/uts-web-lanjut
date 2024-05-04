@@ -221,7 +221,7 @@
 
         <h2>
 			Hallo, Perkenalkan Nama saya Khaliza Diva Qintanada, saya berasal dari bandung jawa barat tepatnya di sarijadi
-            dekat dengan universitas Logistik Bisnis Internasional.
+            dekat dengan universitas Logistik Bisnis Internasional. saat ini saya sedang melanjutkan kuliah S1 di Universitas Widyatama
 		</h2>
 
     </div>
